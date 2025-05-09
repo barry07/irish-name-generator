@@ -1,0 +1,79 @@
+{
+  "names": [
+    {
+      "name": "Aoife",
+      "meaning": "Beauty or radiance",
+      "gender": "girl"
+    },
+    {
+      "name": "Saoirse",
+      "meaning": "Freedom",
+      "gender": "girl"
+    },
+    {
+      "name": "Siobhan",
+      "meaning": "God is gracious",
+      "gender": "girl"
+    },
+    {
+      "name": "Niamh",
+      "meaning": "Brightness or radiance",
+      "gender": "girl"
+    },
+    {
+      "name": "Caoimhe",
+      "meaning": "Beautiful, gentle, precious",
+      "gender": "girl"
+    },
+    {
+      "name": "Liam",
+      "meaning": "Strong-willed warrior",
+      "gender": "boy"
+    },
+    {
+      "name": "Cian",
+      "meaning": "Ancient or enduring",
+      "gender": "boy"
+    },
+    {
+      "name": "Finn",
+      "meaning": "Fair or white",
+      "gender": "boy"
+    },
+    {
+      "name": "Oisin",
+      "meaning": "Little deer",
+      "gender": "boy"
+    },
+    {
+      "name": "Aidan",
+      "meaning": "Little fire",
+      "gender": "boy"
+    },
+    {
+      "name": "Eoin",
+      "meaning": "God is gracious",
+      "gender": "boy"
+    },
+    {
+      "name": "Roisin",
+      "meaning": "Little rose",
+      "gender": "girl"
+    },
+    {
+      "name": "Ciara",
+      "meaning": "Dark-haired",
+      "gender": "girl"
+    },
+    {
+      "name": "Conor",
+      "meaning": "Lover of hounds",
+      "gender": "boy"
+    },
+    {
+      "name": "Eimear",
+      "meaning": "Swift",
+      "gender": "girl"
+    }
+  ]
+}
