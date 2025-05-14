@@ -30,3 +30,9 @@ dist-ssr
 
 # Bolt configuration
 .bolt/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
